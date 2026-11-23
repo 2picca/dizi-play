@@ -1,0 +1,9 @@
+{
+ "version_name": "1.2.95",
+ "version_code": 3295,
+ "apk_arm64": "https://github.com/2picca/dizi-play/releases/download/v1.2.95/freediziplay-v8-1.2.95.apk",
+ "apk_armv7": "https://github.com/2picca/dizi-play/releases/download/v1.2.95/freediziplay-v7-1.2.95.apk",
+ "release_notes": "• Обновления приложения перенесены на GitHub Releases.\n• Исправлена проверка ссылки на скачивание обновления на устройствах ARM64.",
+ "sha256_arm64": "26fbdec3fdcd4153f5ba0a872f3ffb9a20b1a3da3fb65f60b8512dbe2fb9e010",
+ "sha256_armv7": "02ffdda5189faa1003357103cb912d4561ff1e9b7e7f5663ad276c8afed7e3ea"
+}
