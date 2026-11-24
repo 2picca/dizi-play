@@ -1,9 +1,9 @@
 {
- "version_name": "1.2.97",
- "version_code": 3297,
- "apk_arm64": "https://github.com/2picca/dizi-play/releases/download/v1.2.97/freediziplay-v8-1.2.97.apk",
- "apk_armv7": "https://github.com/2picca/dizi-play/releases/download/v1.2.97/freediziplay-v7-1.2.97.apk",
- "release_notes": "• Исправлено открытие карточек актёров и загрузка их биографий.\n• Добавлены актёры из альтернативных источников и устранены повторяющиеся карточки.",
- "sha256_arm64": "3257fd4ea4e56309ae2ea03266de5cfbec248c94396d83e175452e86c89717e3",
- "sha256_armv7": "403329a4ac6d75fa10a4fcce57c1efc15e99461316461847588c4839bcb14ac5"
+ "version_name": "1.2.99",
+ "version_code": 3299,
+ "apk_arm64": "https://github.com/2picca/dizi-play/releases/download/v1.2.99/freediziplay-v8-1.2.99.apk",
+ "apk_armv7": "https://github.com/2picca/dizi-play/releases/download/v1.2.99/freediziplay-v7-1.2.99.apk",
+ "release_notes": "• Исправлено открытие карточек актёров и загрузка их биографий.\n• Расширена база актёров и фотографий для новых сериалов, удалены повторяющиеся карточки.\n• Добавлена связь с мододелом по электронной почте с данными для диагностики.",
+ "sha256_arm64": "ae7469e580b6c6c1ed7504b8dae8b9fe2d2d863c0a23ea17b9f4ffd95cc6737e",
+ "sha256_armv7": "5d0ff7795297e53b2df4d4ec2783de6bfece5cab111251e35bbd0e0f7757e9c1"
 }
