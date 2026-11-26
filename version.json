@@ -1,9 +1,9 @@
 {
- "version_name": "1.3.1",
- "version_code": 3301,
- "apk_arm64": "https://github.com/2picca/dizi-play/releases/download/v1.3.1/freediziplay-v8-1.3.1.apk",
- "apk_armv7": "https://github.com/2picca/dizi-play/releases/download/v1.3.1/freediziplay-v7-1.3.1.apk",
- "release_notes": "• Каталог загружается быстрее и без зависаний.\n• Новые источники сериалов и озвучек.\n• Экран обновлений: новые серии всегда видны.\n• Корректные озвучки и качество у каждой серии.\n• Поиск снова находит нужные сериалы.\n• Снижен расход трафика, при сбое сети показываются сохранённые данные.\n• Единый вид карточек: обложка, год, жанр, серии.",
- "sha256_arm64": "1849dc841ceec04ba544df5e2a3f4ab5eec651b032f522faca093afbec4c841f",
- "sha256_armv7": "93618b1825a232f03d9201c2176635c29ad2637c23c773f85f4f0ec40c7d7e88"
+ "version_name": "1.3.2",
+ "version_code": 3302,
+ "apk_arm64": "https://github.com/2picca/dizi-play/releases/download/v1.3.2/freediziplay-v8-1.3.2.apk",
+ "apk_armv7": "https://github.com/2picca/dizi-play/releases/download/v1.3.2/freediziplay-v7-1.3.2.apk",
+ "release_notes": "• Пустые обложки исправлены: сохраняются и не пропадают после перезапуска.\n• Надёжная проверка обновлений: без лишнего трафика и устойчивая к сбоям сети, проверка версий 1 раз за вход.",
+ "sha256_arm64": "d36e8752446bed7a134b07245ef2af7a8e03ff9649881fe32687183373f94653",
+ "sha256_armv7": "824950a16c2fb9d404cf56f48e20651789136a68437fff83e80c0349e64ac2b1"
 }
